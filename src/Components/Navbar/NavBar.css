@@ -19,3 +19,14 @@
     right: 20px;
     width: 30px;
 }
+.list{
+    display: flex;
+    color: white;
+    margin-left: 100px;
+}
+.list ul{
+    padding-left: 30px;
+}
+.list ul:hover{
+    transform: scale(0.9);
+}
